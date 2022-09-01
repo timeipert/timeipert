@@ -19,4 +19,4 @@ Hi there 👋, I'm Tim. I'm a scientific assistant at [Corpus monodicum](https:/
 * [Pandas](https://pandas.pydata.org/) for data handling.
 * [Puppeteer](https://pptr.dev/) for data scraping.
 * [Keras/Tensorflow](https://keras.io/) and
-* [https://scipy.org/] for machine learning.
+* [Scipy](https://scipy.org/) for machine learning.
