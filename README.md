@@ -5,11 +5,8 @@ Hi there 👋, I'm Tim. I'm a scientific assistant at [Corpus monodicum](https:/
 - 🔭 I’m currently working on tools for converting the Corpus monodicum corpus into standardized formats like MEI.
 - 🌱 I’m currently learning to gain an indepth understanding of the (Python) Pandas library and Typescript.
 - 🤔 What I want to learn next: How to use docker.
-<!-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ..-->
 - 📫 How to reach me: tim.[surname]@uni-wuerzburg.de
 - 😄 Pronouns: he/him
-<!-- ⚡ Fun fact: -->
 
 ## 🔧Tools/Languages I Like To Use
 * [Typescript](https://www.typescriptlang.org/) for everything web-related
