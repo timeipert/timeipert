@@ -1,5 +1,5 @@
 
-Hi there 👋, I'm Tim. I'm a scientific assistant at [Corpus monodicum](https://corpus-monodicum.de) and am currently working on my doctoral thesis on the topic of Modality in the Medieval Ages from a statistical point of view. I am also interested in web development and machine learning/statistics.
+Hi there 👋, I'm Tim. I'm a scientific assistant at [Corpus monodicum](https://corpus-monodicum.de) and am currently working on my doctoral thesis on the topic of Modality in the Medieval Ages from a statistical point of view. I am also interested in web development and machine learning.
 
 ## About Me
 - 🔭 I’m currently working on tools for converting the Corpus monodicum corpus into standardized formats like MEI.
