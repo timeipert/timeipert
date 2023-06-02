@@ -2,9 +2,16 @@
 Hi there 👋, I'm Tim. I'm a research assistant at [Corpus monodicum](https://corpus-monodicum.de) and am currently working on my doctoral thesis on the topic of Modality in the Medieval Ages from a statistical point of view. I am also interested in web development and machine learning.
 
 ## About Me
-- 🔭 I’m currently working on tools for converting the Corpus monodicum corpus into standardized formats like MEI.
-- 📫 How to reach me: tim.eipert@uni-wuerzburg.de
-- 😄 Pronouns: he/him
+I am currently working on:
+* (MonodiKit) An Interface for Corpus monodicum data, that makes it easy to use it for digital corpus studies. Also a interface to convert it into standardized formats like MEI 
+* A Paper about Network Modeling of the Transmission of Trope Elements 
+* A Paper on determining played scales and their relationship to chords in jazz music (Corpus study derived from the Weimar Jazz Database) 
+* My dissertation on approaches to model modality in medieval monophony. 
+
+My academic profile: [Tim Eipert – Universität Würzburg](https://www.musikwissenschaft.uni-wuerzburg.de/team/eipert-tim-ma/)
+
+## 📫 How to reach me 
+Email: tim.eipert@uni-wuerzburg.de
 
 ## 🔧Tools/Languages I Like To Use
 * [Typescript](https://www.typescriptlang.org/) for everything web-related
