@@ -3,7 +3,7 @@ Hi there 👋, I'm Tim. I'm a research assistant at [Corpus monodicum](https://c
 
 ## About Me
 I am currently working on:
-* (MonodiKit) An Interface for Corpus monodicum data, that makes it easy to use it for digital corpus studies. Also a interface to convert it into standardized formats like MEI 
+* MonodiKit, an interface that simplifies the usage of Corpus monodicum data for digital corpus studies. Additionally, it serves as a conversion interface, enabling the transformation of the data into standardized formats such as MEI.
 * A Paper about Network Modeling of the Transmission of Trope Elements 
 * A Paper on determining played scales and their relationship to chords in jazz music (Corpus study derived from the Weimar Jazz Database) 
 * My dissertation on approaches to model modality in medieval monophony. 
