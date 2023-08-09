@@ -22,3 +22,6 @@ Email: tim.eipert@uni-wuerzburg.de
 * [Puppeteer](https://pptr.dev/) for data scraping.
 * [Keras/Tensorflow](https://keras.io/) and
 * [Scipy](https://scipy.org/) for machine learning.
+
+## Learning
+* I am working on a better understanding of Bayesian Modeling and Causal Inference as a means to describe a model of transmitted medieval chant. I plan to use [pyro](https://pyro.ai/)...
