@@ -4,7 +4,7 @@ Hi there 👋, I'm Tim. I'm a research assistant at [Corpus monodicum](https://c
 ## About Me
 I am currently working on:
 
-* A Bayesian Phylogenetic Model for a Collection of Medieval Chant Variants to Explore Different Historical Traces of the Different Chants
+* A Bayesian Phylogenetic Model for a Collection of Medieval Chant Variants to Explore Different Historical Traces of Chants.
 * A Paper about Network Modeling of the Transmission of Trope Elements 
 * A Paper on determining played scales and their relationship to chords in jazz music (Corpus study derived from the Weimar Jazz Database) 
 * MonodiKit, an interface that simplifies using Corpus monodicum data for digital corpus studies. Additionally, it serves as a conversion interface, enabling the transformation of the data into standardized formats such as MEI.
