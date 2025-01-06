@@ -16,4 +16,4 @@ Email: tim.eipert@uni-wuerzburg.de
   
 
 ## Learning
-* I am working on better understanding Bayesian Modeling and Causal Inference to describe a model of transmitted medieval chant. 
+* I am working on better understanding Bayesian Modeling and Causal Inference to build a model of transmitted medieval chant. 
